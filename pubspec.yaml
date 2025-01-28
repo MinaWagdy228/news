@@ -39,6 +39,7 @@ dependencies:
   cached_network_image: ^3.4.1
   provider: ^6.1.2
   shared_preferences: ^2.4.0
+  flutter_bloc: ^9.0.0
 
 dev_dependencies:
   flutter_test:
